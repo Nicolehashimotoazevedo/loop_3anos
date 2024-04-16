@@ -8,7 +8,8 @@ function verificarTime() {
     var respostaTime = prompt("Qual o melhor time?");
 
     
-    if (respostaTime.toLowerCase() === "CARROS) {
+    if (respostaTime.toLowerCase() === ("CARROS
+  ) {
       alert(SONATA);
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
