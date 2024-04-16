@@ -4,7 +4,7 @@ function verificarTime() {
   var continuarPerguntando = true;
 
   while (continuarPerguntando) {
-    
+
     var respostaTime = prompt("Qual o melhor time?");
 
     
