@@ -5,10 +5,10 @@ function verificarTime() {
 
   while (continuarPerguntando) {
 
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("Qual o carro que voce gosta?");
 
     
-    if (respostaTime.toLowerCase() === ("CARROS) 
+    if (respostaTime.toLowerCase() === ("Carros") 
     {
       alert(SONATA);
       continuarPerguntando = false; // Sai do loop após a resposta correta
