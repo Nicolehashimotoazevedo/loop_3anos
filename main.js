@@ -8,12 +8,12 @@ function verificarTime() {
     var respostaTime = prompt("Qual o carro que voce gosta?");
 
     
-    if (respostaTime.toLowerCase() === ("Carros")
-    {
+    if (respostaTime.toLowerCase() === ("Carros") {
       alert(SONATA);
       continuarPerguntando = false; // Sai do loop após a resposta correta
      } else {
-      alert("Não é isso! Tente novamente.");{}
+      alert("Não é isso! Tente novamente.");
+     }
     }
   }
 }
